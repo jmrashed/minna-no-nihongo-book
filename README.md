@@ -87,6 +87,6 @@ Join discussions, ask questions, and share your experiences with fellow learners
 # Contributions and Feedback
 Your contributions and feedback are highly encouraged! Whether you have suggestions for improvement, new exercises, or additional resources, your input is valuable. Let's collaborate to make this repository a valuable asset for Japanese language learners.
 
-Happy learning!
+# Happy learning!
 
-Md Rasheduzzaman
+Let's follow the author [Md Rasheduzzaman](https://github.com/jmrashed) and let him know if you have any questions or feedback
